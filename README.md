@@ -3,6 +3,11 @@
   # Description
   This application uses GET/POST/PUT/DELETE API routes to build a database of Categories,Products and Tags for an ecommerce platform.
 
+[https://drive.google.com/file/d/15OOncIMnKbmTg35w-SHmO77UsSi_Yopb/view]
+
+![Gif of project](./assets/Untitled_%20Aug%2019,%202021%208_54%20AM.gif)
+
+
   # Table of Contents
   - [Description](#Description)
   - [Installation](#Installation)
@@ -17,7 +22,7 @@
 
   # Usage
   The application can be used to create products, update existing products and delete products from the database. The categories, products and tags can also be seacrched both by all or by selected parameters.
-  
+
   ## Your Task
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
